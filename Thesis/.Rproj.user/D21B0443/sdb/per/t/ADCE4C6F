@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1450209010379.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ADCE4C6F",
+    "lastKnownWriteTime" : 235021600,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "py4vgzwtlu",
+        "caption" : "csv_corrections4",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=csv_corrections4&cache_key=py4vgzwtlu",
+        "displayedObservations" : 23,
+        "environment" : "",
+        "object" : "csv_corrections4",
+        "totalObservations" : 23,
+        "variables" : 18
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

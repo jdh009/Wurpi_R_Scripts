@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1450209011322.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "12C7BA68",
+    "lastKnownWriteTime" : 235977328,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "f5ceismcex",
+        "caption" : "csv_corrections3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=csv_corrections3&cache_key=f5ceismcex",
+        "displayedObservations" : 23,
+        "environment" : "",
+        "object" : "csv_corrections3",
+        "totalObservations" : 23,
+        "variables" : 18
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
